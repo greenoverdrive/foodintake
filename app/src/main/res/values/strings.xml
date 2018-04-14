@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Food Intake</string>
+    <string name="action_exit">Exit</string>
+
+    <!-- Login activity strings -->
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_button">LogIn</string>
+    <string name="login_signup">No account yet? Create one</string>
+    <string name="login_forgot">Forgot password?</string>
+    <string name="login_progress">Loading...</string>
+    <string name="login_progress_complete">Done!</string>
+
+    <!-- Signup activity strings -->
+    <string name="signup_hint_name">Name</string>
+    <string name="signup_hint_email">Email</string>
+    <string name="signup_hint_password">Password</string>
+    <string name="signup_button">Create account</string>
+    <string name="signup_login">Already a member? Login</string>
+
+    <!-- Forgot activity strings -->
+    <string name="forgot_hint_email">Email</string>
+    <string name="forgot_button">Restore password</string>
+
+
+    <!-- Main activity strings -->
+    <string name="main_breakfast">Breakfast</string>
+    <string name="main_lunch">Lunch</string>
+    <string name="main_dinner">Dinner</string>
+    <string name="main_snack">Snack</string>
+    <string name="main_notfound">Data not found</string>
+
+    <!-- Enter meals activity strings -->
+    <string name="meals_label">Enter meals</string>
+    <string name="meals_tab_break">Break</string>
+    <string name="meals_tab_lunch">Lunch</string>
+    <string name="meals_tab_dinner">Dinner</string>
+    <string name="meals_tab_snack">Snack</string>
+    <string name="meals_row_string">Enter the meals</string>
+    <string name="meals_menu_search">Search</string>
+    <string name="meals_menu_voice">Voice</string>
+    <string name="meals_menu_camera">Barcode</string>
+
+</resources>
